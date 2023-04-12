@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03bcdffa-7560-4054-b39c-5e459a714049" name="Changes" comment="size of directory">
-      <change afterPath="$PROJECT_DIR$/src/main/java/FolderSizeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyThread.java" afterDir="false" />
+    <list default="true" id="03bcdffa-7560-4054-b39c-5e459a714049" name="Changes" comment="readablesize">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,12 +38,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -74,12 +72,20 @@
       <option name="project" value="LOCAL" />
       <updated>1681211131062</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="readablesize">
+      <created>1681288286323</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681288286323</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="size of directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="size of directory" />
+    <MESSAGE value="readablesize" />
+    <option name="LAST_COMMIT_MESSAGE" value="readablesize" />
   </component>
 </project>
